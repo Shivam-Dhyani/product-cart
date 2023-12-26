@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-# Project Live Link : [Product Cart](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
+# Project Live Link : [Product Cart]([https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md](https://658a985258d63a7fed20bafc--shivam-dhyani-product-cart.netlify.app/))
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
